@@ -15,7 +15,11 @@ This GitHub repository serves as a platform to showcase our work, provide access
 Project Structure
 
 Data Retrieval and Cleaning: Contains code and files related to data sourcing and cleaning.
+
 Visualization: Hosts Tableau visualizations that offer interactive insights.
+
 Recommendations: Provides documentation on the strategic recommendations made to stakeholders.
+
 Documentation: Supplementary documentation on project methodology and details.
+
 Feel free to reach out for collaboration or any inquiries related to our project.
